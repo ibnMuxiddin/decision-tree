@@ -1,4 +1,20 @@
+# Python
 __pycache__/
-.ipynb_checkpoints/
-.env
+*.py[cod]
+*$py.class
 env/
+venv/
+.venv/
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# Environment variables
+.env
